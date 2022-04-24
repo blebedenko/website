@@ -1,0 +1,13 @@
+---
+title: Resources
+---
+
+Here are some of my original resources:
+
+### R basics (Hebrew)
+
+### R for Probability and Statistics (Hebrew)
+
+### Editing Rmarkdown in Hebrew (not for the faint of heart!!!)
+
+### Statistics/Math memes (OC)
