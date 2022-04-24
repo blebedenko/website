@@ -22,11 +22,18 @@ menu:
     - name: Projects
       url: "projects/"
       weight: 3
+    - name: Resources
+      url: "resources/"
+      weight: 4
     - name: Consulting
       url: "consulting/"
-      weight: 4
+      weight: 5
     - name: CV
       url: "cv/"
+      weight: 6
+    - name: Contact
+      url: "contact/"
+      weight: 7
 
 params:
   description: "My personal blog and site. Igal, if you are reading this - stop editing sites' scripts and get back to work!"
