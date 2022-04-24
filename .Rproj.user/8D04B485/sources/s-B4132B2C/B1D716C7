@@ -1,0 +1,31 @@
+{
+    "id": "B1D716C7",
+    "path": "~/blog/personal_site/content/_index.Rmarkdown",
+    "project_path": "content/_index.Rmarkdown",
+    "type": "r_markdown",
+    "hash": "3344876750",
+    "contents": "",
+    "dirty": false,
+    "created": 1650807473519.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,43",
+        "scrollLine": "0",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "332:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1650807583,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650807583102,
+    "read_only": false,
+    "read_only_alternatives": []
+}

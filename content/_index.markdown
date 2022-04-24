@@ -6,8 +6,9 @@ title: Home
 
 # Boris Lebedenko
 
-## Statistics is bori...s :)
+### Everyone knows that statistics is bori...s :)
 
-`$${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$`
-
-All pages not under the root directory of the website are listed below. You can also visit the list page of a single section, e.g., [posts](/post/), or [notes](/note/). See the [About](/about/) page for the usage of this theme.
+> "If it weren't for my lawyer, I'd still be in prison.
+>  It went a lot faster with two people digging."
+>
+> <footer>--- Joe Martin</footer>
