@@ -1,0 +1,10 @@
+---
+title: Curriculum Vitae
+---
+
+My CV.
+
+```{r,echo=FALSE,fig.align='center'}
+downloadthis::download_file(path = "cv.Rmd",button_type = "info",button_label = "Download PDF")
+```
+
