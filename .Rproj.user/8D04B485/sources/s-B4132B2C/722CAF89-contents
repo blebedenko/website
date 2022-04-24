@@ -1,0 +1,16 @@
+---
+title: The correlation matrix - a pragmatic perspective
+author: Package Build
+date: '2022-04-24'
+slug: the-correlation-matrix-a-pragmatic-perspective
+categories: []
+tags: []
+---
+
+# The problem:
+
+> Man, why isn't there a one line command to see the correlation in the data? `r tufte::quote_footer('--- Some social sciences dude')`
+
+# Why is it a problem?
+
+Well, obviously the problem lies in the word *correlation*. Every 2nd year student can tell you that what is referred to is actually *association*, and that its measure depends on the type of variables at hand - nominal, ordinal, interval or scale.

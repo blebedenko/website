@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Boris Lebedenko</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Boris Lebedenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The correlation matrix - a pragmatic perspective</title>
+      <link>/post/2022/04/24/the-correlation-matrix-a-pragmatic-perspective/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022/04/24/the-correlation-matrix-a-pragmatic-perspective/</guid>
+      <description>The problem:  Man, why isn’t there a one line command to see the correlation in the data?  — Some social sciences dude    Why is it a problem? Well, obviously the problem lies in the word correlation. Every 2nd year student can tell you that what is referred to is actually association, and that its measure depends on the type of variables at hand - nominal, ordinal, interval or scale.</description>
+    </item>
+    
+  </channel>
+</rss>
